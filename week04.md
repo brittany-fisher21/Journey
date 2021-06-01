@@ -1,0 +1,4 @@
+Week 4 was rough but I made it. Being kinder to myself was difficult this week. Frustration set in a few times and I had to dig deep to make sure I didn't give up. Javascript was more complicated than python. Often times I felt like I was confusing syntax between Javascript and python. 
+I did spend more time working together with my classmates and it was a relief to see that we all had struggles, just in different areas. Regardless of how difficult this week is, I'm really looking forward to the front-end project. The class ahead of us said that everything came together for them once they started the project, I'm hopeful for the same thing. 
+I'm still here and pushing through! 
+Reminder, Be kind to yourself, no matter how difficult that may seem. Don't give up! Keep pushing! You've got this!
